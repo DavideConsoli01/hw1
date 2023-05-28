@@ -1,0 +1,653 @@
+{
+  "personaggi": [
+    {
+      "nome": "Cecil Harvey",
+      "gioco": "Final Fantasy IV",
+      "classe": "Paladino",
+      "arma": "Spada",
+      "abilità": ["Holy", "Saint's Fall", "Sacred Cross"],
+      "descrizione": "Il protagonista di Final Fantasy IV, un cavaliere oscuro che si redime diventando un paladino per proteggere il mondo.",
+      "immagine": "https://dissidiadb.com/static/img/cecil_paladin.6597138.png"
+    },
+    {
+      "nome": "Kain Highwind",
+      "gioco": "Final Fantasy IV",
+      "classe": "Dragoon",
+      "arma": "Lancia",
+      "abilità": ["Jump", "Dragon Dive", "Dragoon's Pride"],
+      "descrizione": "Un cavaliere drago fedele e leale, Kain è un personaggio di grande forza e abilità nel combattimento.",
+      "immagine": "https://dissidiadb.com/static/img/kain.bfec58c.png"
+    },
+    {
+      "nome": "Yuffie Kisaragi",
+      "gioco": "Final Fantasy VII",
+      "classe": "Ladro Ninja",
+      "arma": "Shuriken",
+      "abilità": ["Greased Lightning", "Bloodfest", "Gauntlet"],
+      "descrizione": "Una giovane ninja che cerca di rubare i segreti della Shinra Corporation per aiutare il suo villaggio.",
+      "immagine": "https://dissidiadb.com/static/img/yuffie.14e4825.png"
+    },
+    {
+      "nome": "Sephiroth",
+      "gioco": "Final Fantasy VII",
+      "classe": "One-Winged Angel",
+      "arma": "Masamune",
+      "abilità": ["Octaslash", "Black Materia", "Super Nova"],
+      "descrizione": "Il principale antagonista di Final Fantasy VII, un guerriero potente che cerca di distruggere il mondo con il potere della Materia Nera.",
+      "immagine": "https://dissidiadb.com/static/img/sephiroth.8f99b96.png"
+    },
+    {
+      "nome": "Freya Crescent",
+      "gioco": "Final Fantasy IX",
+      "classe": "Dragoon",
+      "arma": "Lancia",
+      "abilità": ["Jump", "Dragon Breath", "Cherry Blossom"],
+      "descrizione": "Una guerriera drago che lotta per salvare il suo regno e cerca il suo amato scomparso.",
+      "immagine": "https://dissidiadb.com/static/img/freya.abd8d68.png"
+    },
+    {
+      "nome": "Ashe",
+      "gioco": "Final Fantasy XII",
+      "classe": "Principessa",
+      "arma": "Spada",
+      "abilità": ["Northswain's Glow", "Maelstrom's Bolt", "Empyrean's Edict"],
+      "descrizione": "Una principessa determinata a riprendere il trono del suo regno e a liberarlo dall'occupazione dell'Impero Archadiano.",
+      "immagine": "https://dissidiadb.com/static/img/ashe.a8cb85d.png"
+    },
+    {
+      "nome": "Vaan",
+      "gioco": "Final Fantasy XII",
+      "classe": "Ladro",
+      "arma": "Spada",
+      "abilità": ["Red Spiral", "White Whorl", "Pyroclasm"],
+      "descrizione": "Un giovane orfano che sogna di diventare un pirata dell'aria e si unisce alla resistenza contro l'Impero.",
+      "immagine": "https://dissidiadb.com/static/img/vaan.70d25e2.png"
+    },
+    {
+      "nome": "Fran",
+      "gioco": "Final Fantasy XII",
+      "classe": "Viera",
+      "arma": "Arco",
+      "abilità": ["Feral Strike", "Gnaw", "Fulminating Darkness"],
+      "descrizione": "Una cacciatrice Viera abile nell'uso dell'arco e una dei membri principali del gruppo di avventurieri.",
+      "immagine": "https://dissidiadb.com/static/img/fran.7716b96.png"
+    },
+    {
+      "nome": "Aerith Gainsborough",
+      "gioco": "Final Fantasy VII",
+      "classe": "Fioraia",
+      "arma": "Bastone",
+      "abilità": ["Healing Wind", "Planet Protector", "Great Gospel"],
+      "descrizione": "Una giovane donna con poteri di guarigione e connessione con il Lifestream, destinata a svolgere un ruolo importante nella lotta contro Sephiroth.",
+      "immagine": "https://dissidiadb.com/static/img/aerith.b3e8bd2.png"
+    },
+    {
+      "nome": "Cid Highwind",
+      "gioco": "Final Fantasy VII",
+      "classe": "Ingegnere",
+      "arma": "Lancia",
+      "abilità": ["Big Brawl", "Highwind", "Boost Jump"],
+      "descrizione": "Un ingegnere abile e pilota di aeronavi, Cid è un personaggio tosto e coraggioso che aiuta il gruppo nella lotta contro Sephiroth.",
+      "immagine": "https://dissidiadb.com/static/img/cid.1bd8c48.png"
+    },
+    {
+      "nome": "Cloud Strife",
+      "gioco": "Final Fantasy VII",
+      "classe": "Mercenario",
+      "arma": "Spada",
+      "abilità": ["Omnislash", "Blade Beam", "Finishing Touch"],
+      "descrizione": "Il protagonista di Final Fantasy VII, un ex membro di SOLDIER che si unisce alla lotta contro l'azienda Shinra e il nemico Sephiroth.",
+      "immagine": "https://dissidiadb.com/static/img/cloud.5c04fb0.png"
+    },
+    {
+      "nome": "Barret Wallace",
+      "gioco": "Final Fantasy VII",
+      "classe": "Combattente",
+      "arma": "Braccio-cannone",
+      "abilità": ["Catastrophe", "Mindblow", "Satellite Beam"],
+      "descrizione": "Un combattente coraggioso e carismatico, Barret usa il suo braccio-cannone per attaccare i nemici e difendere l'ambiente.",
+      "immagine": "https://dissidiadb.com/static/img/barret.c016115.png"
+    },
+    {
+      "nome": "Tifa Lockhart",
+      "gioco": "Final Fantasy VII",
+      "classe": "Combattente",
+      "arma": "Graffetta",
+      "abilità": ["Final Heaven", "Dolphin Blow", "Meteor Strike"],
+      "descrizione": "Una combattente agile e potente, Tifa usa le sue abilità marziali per sconfiggere i nemici e supportare il gruppo.",
+      "immagine": "https://dissidiadb.com/static/img/tifa.a7534ba.png"
+    },
+    {
+      "nome": "Zack Fair",
+      "gioco": "Final Fantasy VII",
+      "classe": "Soldier",
+      "arma": "Spada",
+      "abilità": ["Final Strike", "Rush Assault", "Apocalypse"],
+      "descrizione": "Un SOLDIER di prima classe, Zack è un personaggio chiave nella storia di Cloud e ha un forte senso di giustizia e determinazione.",
+      "immagine": "https://dissidiadb.com/static/img/zack.1d03e33.png"
+    },
+    {
+      "nome": "Squall Leonhart",
+      "gioco": "Final Fantasy VIII",
+      "classe": "Combattente",
+      "arma": "Pugnale",
+      "abilità": ["Lionheart", "Blasting Zone", "Renzokuken"],
+      "descrizione": "Il protagonista di Final Fantasy VIII, un giovane combattente con una personalità schiva ma determinata a proteggere i suoi amici.",
+      "immagine": "https://dissidiadb.com/static/img/squall.e526f65.png"
+    },
+    {
+      "nome": "Rinoa Heartilly",
+      "gioco": "Final Fantasy VIII",
+      "classe": "Combattente",
+      "arma": "Bastone",
+      "abilità": ["Angel Wing", "Wishing Star", "Incredible Crisis"],
+      "descrizione": "Una giovane combattente con poteri magici e una connessione speciale con una creatura chiamata Angelo.",
+      "immagine": "https://dissidiadb.com/static/img/rinoa.577ff9b.png"
+    },
+    {
+      "nome": "Quistis Trepe",
+      "gioco": "Final Fantasy VIII",
+      "classe": "Istruttrice",
+      "arma": "Frusta",
+      "abilità": ["Mighty Guard", "Blue Magic", "Shockwave Pulsar"],
+      "descrizione": "Un'istruttrice di SeeD con abilità magiche e conoscenza delle abilità dei mostri, Quistis è una figura di autorità nel gruppo.",
+      "immagine": "https://dissidiadb.com/static/img/quistis.1a4d8d7.png"
+    },
+    {
+      "nome": "Selphie Tilmitt",
+      "gioco": "Final Fantasy VIII",
+      "classe": "Organizzatrice",
+      "arma": "Nunchaku",
+      "abilità": ["Slots", "Rapture", "The End"],
+      "descrizione": "Una vivace organizzatrice con abilità magiche e una predilezione per l'uso dei giochi di fortuna in combattimento.",
+      "immagine": "https://dissidiadb.com/static/img/selphie.4803dbc.png"
+    },
+    {
+      "nome": "Zidane Tribal",
+      "gioco": "Final Fantasy IX",
+      "classe": "Ladro",
+      "arma": "Pugnale",
+      "abilità": ["Thievery", "Tidal Flame", "Grand Lethal"],
+      "descrizione": "Il protagonista di Final Fantasy IX, un abile ladro con una personalità spensierata e un cuore nobile.",
+      "immagine": "https://dissidiadb.com/static/img/zidane.d5d41fc.png"
+    },
+    {
+      "nome": "Garnet Til Alexandros XVII",
+      "gioco": "Final Fantasy IX",
+      "classe": "Invocatrice",
+      "arma": "Bastone",
+      "abilità": ["Summon", "Ark", "Promised Eden"],
+      "descrizione": "La principessa del regno di Alexandria e una potente invocatrice, Garnet è alla ricerca della sua vera identità e del suo scopo.",
+      "immagine": "https://dissidiadb.com/static/img/garnet.870f654.png"
+    },
+    {
+      "nome": "Vivi Ornitier",
+      "gioco": "Final Fantasy IX",
+      "classe": "Mago Nero",
+      "arma": "Bacchetta",
+      "abilità": ["Fire", "Blizzard", "Thunder"],
+      "descrizione": "Un giovane mago nero con la capacità di lanciare potenti incantesimi di fuoco, ghiaccio e fulmine.",
+      "immagine": "https://dissidiadb.com/static/img/vivi.bb70e35.png"
+    },
+    {
+      "nome": "Steiner Adelbert",
+      "gioco": "Final Fantasy IX",
+      "classe": "Paladino",
+      "arma": "Spada",
+      "abilità": ["Climhazzard", "Shock", "Sword Magic"],
+      "descrizione": "Il capitano delle guardie di Alexandria e un devoto paladino che protegge la principessa Garnet.",
+      "immagine": "https://dissidiadb.com/static/img/steiner.cfea9d3.png"
+    },
+    {
+      "nome": "Tidus",
+      "gioco": "Final Fantasy X",
+      "classe": "Guerriero",
+      "arma": "Spada",
+      "abilità": ["Energy Rain", "Blitz Ace", "Slice & Dice"],
+      "descrizione": "Il protagonista di Final Fantasy X, un giovane guerriero proveniente da Zanarkand che si unisce alla lotta contro Sin.",
+      "immagine": "https://dissidiadb.com/static/img/tidus.2e19961.png"
+    },
+    {
+      "nome": "Yuna",
+      "gioco": "Final Fantasy X",
+      "classe": "Invocatrice",
+      "arma": "Bastone",
+      "abilità": ["Grand Summon", "Mega-Flare", "The Sending"],
+      "descrizione": "Una giovane invocatrice che viaggia per Spira con l'obiettivo di sconfiggere Sin e portare la pace al mondo.",
+      "immagine": "https://dissidiadb.com/static/img/yuna.e85f9f4.png"
+    },
+    {
+      "nome": "Auron",
+      "gioco": "Final Fantasy X",
+      "classe": "Samurai",
+      "arma": "Katana",
+      "abilità": ["Bushido", "Shooting Star", "Dragon Fang"],
+      "descrizione": "Un misterioso samurai con una connessione al passato di Tidus e una vasta esperienza nella battaglia contro Sin.",
+      "immagine": "https://dissidiadb.com/static/img/auron.dadf0dc.png"
+    },
+    {
+      "nome": "Wakka",
+      "gioco": "Final Fantasy X",
+      "classe": "Blitzballista",
+      "arma": "Palla da Blitz",
+      "abilità": ["Element Reels", "Attack Reels", "Aurochs Reels"],
+      "descrizione": "Un giocatore di blitzball e combattente abile con la palla da blitz, Wakka è un membro fedele e coraggioso del gruppo.",
+      "immagine": "https://dissidiadb.com/static/img/wakka.5d62bf2.png"
+    },
+    {
+      "nome": "Kimahri Ronso",
+      "gioco": "Final Fantasy X",
+      "classe": "Blue Mage",
+      "arma": "Lancia",
+      "abilità": ["Lancet", "Thrust Kick", "Nova"],
+      "descrizione": "Un membro della tribù Ronso con la capacità di apprendere le abilità dei nemici sconfitti e di lanciare potenti attacchi fisici.",
+      "immagine": "https://dissidiadb.com/static/img/kimahri.2c37797.png"
+    },
+    {
+      "nome": "Lightning",
+      "gioco": "Final Fantasy XIII",
+      "classe": "Soldier",
+      "arma": "Spada",
+      "abilità": ["Gestalt Drive", "Army of One", "Razor Gale"],
+      "descrizione": "La protagonista di Final Fantasy XIII, una SOLDIER determinata a salvare sua sorella e porre fine al dominio del fal'Cie.",
+      "immagine": "https://dissidiadb.com/static/img/lightning.5d11f8b.png"
+    },
+    {
+      "nome": "Snow Villiers",
+      "gioco": "Final Fantasy XIII",
+      "classe": "Sentinella",
+      "arma": "Guantoni",
+      "abilità": ["Ice Ramp", "Steelguard", "Gaian Salvo"],
+      "descrizione": "Un membro del gruppo di resistenza NORA e il fidanzato di Serah, Snow è un difensore coraggioso e altruista.",
+      "immagine": "https://dissidiadb.com/static/img/snow.b19bdb5.png"
+    },
+    {
+      "nome": "Hope Estheim",
+      "gioco": "Final Fantasy XIII",
+      "classe": "Mago",
+      "arma": "Bastone",
+      "abilità": ["Last Resort", "Water", "Quake"],
+      "descrizione": "Un giovane sopravvissuto al Purge, Hope ha sviluppato abilità magiche e cerca vendetta per la morte di sua madre.",
+      "immagine": "https://dissidiadb.com/static/img/hope.fb771c9.png"
+    },
+    {
+      "nome": "Vanille",
+      "gioco": "Final Fantasy XIII",
+      "classe": "Saggio",
+      "arma": "Astuccio",
+      "abilità": ["Death", "Doom", "Overwhelm"],
+      "descrizione": "Una giovane misteriosa con il potere di percepire le voci dei fal'Cie e una connessione speciale con la dea Etro.",
+      "immagine": "https://dissidiadb.com/static/img/vanille.53aa5ae.png"
+    },
+    {
+      "nome": "Sazh Katzroy",
+      "gioco": "Final Fantasy XIII",
+      "classe": "Comandante",
+      "arma": "Pistola",
+      "abilità": ["Cold Blood", "Boon", "Deterrence"],
+      "descrizione": "Un padre che cerca di riunirsi con suo figlio, Sazh è un abile tiratore e un membro prezioso del gruppo.",
+      "immagine": "https://dissidiadb.com/static/img/sazh.765b303.png"
+    },
+    {
+      "nome": "Noctis Lucis Caelum",
+      "gioco": "Final Fantasy XV",
+      "classe": "Reale Guardia",
+      "arma": "Armi Reali",
+      "abilità": ["Armiger", "Royal Arms", "Warp Strike"],
+      "descrizione": "Il protagonista di Final Fantasy XV, un principe ereditario dotato di poteri magici e abilità di combattimento eccezionali.",
+      "immagine": "https://dissidiadb.com/static/img/noctis.043a7df.png"
+    },
+    {
+      "nome": "Gladiolus Amicitia",
+      "gioco": "Final Fantasy XV",
+      "classe": "Scudo",
+      "arma": "Lama",
+      "abilità": ["Cyclone", "Impulse", "Dawnhammer"],
+      "descrizione": "Il protettore di Noctis e membro della Guardia Reale, Gladiolus è un combattente robusto e un leale alleato.",
+      "immagine": "https://dissidiadb.com/static/img/gladiolus.bb2b93f.png"
+    },
+    {
+      "nome": "Ignis Scientia",
+      "gioco": "Final Fantasy XV",
+      "classe": "Stratega",
+      "arma": "Lama",
+      "abilità": ["Mark", "Overwhelm", "Regroup"],
+      "descrizione": "Un consigliere fidato di Noctis, Ignis è un abile stratega e cuoco che supporta il gruppo con le sue abilità tattiche.",
+      "immagine": "https://dissidiadb.com/static/img/ignis.254a738.png"
+    },
+    {
+      "nome": "Prompto Argentum",
+      "gioco": "Final Fantasy XV",
+      "classe": "Cecchino",
+      "arma": "Pistola",
+      "abilità": ["Piercer", "Gravisphere", "Trigger Happy"],
+      "descrizione": "Un amico d'infanzia di Noctis, Prompto è un esperto cecchino e fotografo che porta leggerezza e gioia al gruppo.",
+      "immagine": "https://dissidiadb.com/static/img/prompto.73a5274.png"
+    },
+    {
+      "nome": "Rydia",
+      "gioco": "Final Fantasy IV",
+      "classe": "Maga Nera",
+      "arma": "Bacchetta",
+      "abilità": ["Fire", "Blizzard", "Thunder"],
+      "descrizione": "Una giovane maga nera che controlla i poteri degli elementi, Rydia diventa un'alleata chiave nel combattere le forze oscure.",
+      "immagine": "https://dissidiadb.com/static/img/rydia.62b2b32.png"
+    },
+    {
+      "nome": "Gilgamesh",
+      "gioco": "Final Fantasy V",
+      "classe": "Misterioso",
+      "arma": "Varie",
+      "abilità": ["Excalibur", "Masamune", "Zantetsuken"],
+      "descrizione": "Un personaggio ricorrente nella serie Final Fantasy, Gilgamesh è un guerriero affascinante con una collezione di armi leggendarie.",
+      "immagine": "https://dissidiadb.com/static/img/gilgamesh.23dc8e2.png"
+    },
+  
+    {
+      "nome": "Garland",
+      "gioco": "Final Fantasy I",
+      "classe": "Cavaliere Oscuro",
+      "arma": "Spada",
+      "abilità": ["Chaos Wave", "Dark Cannon", "Cyclone"],
+      "descrizione": "Il principale antagonista di Final Fantasy I, un cavaliere oscuro che cerca di portare caos e distruzione al mondo.",
+      "immagine": "https://dissidiadb.com/static/img/garland.ad18254.png"
+    },
+    {
+      "nome": "Jecht",
+      "gioco": "Final Fantasy X",
+      "classe": "Guardiano",
+      "arma": "Spada",
+      "abilità": ["Jecht Shot", "Jecht Beam", "Ultimate Jecht Shot"],
+      "descrizione": "Il padre di Tidus e una leggenda nel mondo di Blitzball",
+      "immagine": "https://dissidiadb.com/static/img/jecht.fbb993d.png"
+    },
+    {
+      "nome": "Bartz Klauser",
+      "gioco": "Final Fantasy V",
+      "classe": "Viaggiatore",
+      "arma": "Spada",
+      "abilità": ["Double Attack", "Rapid Fire", "Spellblade"],
+      "descrizione": "Il protagonista di Final Fantasy V, un viaggiatore che si unisce a una missione per proteggere i cristalli del mondo.",
+      "immagine": "https://dissidiadb.com/static/img/bartz.25493c9.png"
+    },
+    {
+      "nome": "Lenna Charlotte Tycoon",
+      "gioco": "Final Fantasy V",
+      "classe": "Sacerdotessa",
+      "arma": "Bacchetta",
+      "abilità": ["White Magic", "Summon", "Holy Knight"],
+      "descrizione": "Una sacerdotessa di grande cuore che si unisce alla missione per proteggere i cristalli e salvare suo padre.",
+      "immagine": "https://dissidiadb.com/static/img/lenna.fc89131.png"
+    },
+    {
+      "nome": "Galuf Halm Baldesion",
+      "gioco": "Final Fantasy V",
+      "classe": "Maestro di Arti Marziali",
+      "arma": "Nudibranchi",
+      "abilità": ["Martial Arts", "Guardian", "Sorcerer"],
+      "descrizione": "Un vecchio guerriero con amnesia che si unisce alla missione per salvare il mondo dai malefici di Exdeath.",
+      "immagine": "https://dissidiadb.com/static/img/galuf.874a1fe.png"
+    },
+    {
+      "nome": "Faris Scherwiz",
+      "gioco": "Final Fantasy V",
+      "classe": "Pirata",
+      "arma": "Pugnale",
+      "abilità": ["Steal", "Flair", "Blue Magic"],
+      "descrizione": "Una piratessa abile e coraggiosa, inizialmente travestita da uomo, che si unisce alla missione per salvare il mondo.",
+      "immagine": "https://dissidiadb.com/static/img/faris.fe1fed1.png"
+    },
+    {
+      "nome": "Terra Branford",
+      "gioco": "Final Fantasy VI",
+      "classe": "Maga",
+      "arma": "Magilancia",
+      "abilità": ["Magicite", "Trance", "Esper"],
+      "descrizione": "La protagonista di Final Fantasy VI, una giovane donna con il potere di controllare la magia.",
+      "immagine": "https://dissidiadb.com/static/img/terra.8ea4303.png"
+    },
+    {
+      "nome": "Locke Cole",
+      "gioco": "Final Fantasy VI",
+      "classe": "Ladro",
+      "arma": "Pugnale",
+      "abilità": ["Steal", "Mug", "Pilfer"],
+      "descrizione": "Un abile ladro e tesoriere con un grande cuore che si unisce alla lotta contro l'Impero.",
+      "immagine": "https://dissidiadb.com/static/img/locke.f8280aa.png"
+    },
+    {
+      "nome": "Celes Chere",
+      "gioco": "Final Fantasy VI",
+      "classe": "Generale",
+      "arma": "Spada",
+      "abilità": ["Runic", "Shock", "Merton"],
+      "descrizione": "Un'ex generale dell'Impero che si ribella e si unisce al gruppo di resistenza per combattere contro l'oppressione.",
+      "immagine": "https://dissidiadb.com/static/img/celes.8c5acbb.png"
+    },
+    {
+      "nome": "Edgar Roni Figaro",
+      "gioco": "Final Fantasy VI",
+      "classe": "Re",
+      "arma": "Martello",
+      "abilità": ["Tools", "Royal Shock", "Dirge"],
+      "descrizione": "Il re del regno di Figaro, abile meccanico e stratega, che lotta per liberare il suo popolo dall'Impero.",
+      "immagine": "https://dissidiadb.com/static/img/edgar.0717327.png"
+    },
+    {
+      "nome": "Kefka Palazzo",
+      "gioco": "Final Fantasy VI",
+      "classe": "Mago Folle",
+      "arma": "Bacchetta",
+      "abilità": ["Havoc Wing", "Trine", "Warring Triad"],
+      "descrizione": "L'antagonista principale di Final Fantasy VI, un mago folle desideroso di distruggere il mondo.",
+      "immagine": "https://dissidiadb.com/static/img/kefka.eb861bd.png"
+    },
+    {
+      "nome": "Shadow",
+      "gioco": "Final Fantasy VI",
+      "classe": "Assassino",
+      "arma": "Lama",
+      "abilità": ["Throw", "Shuriken", "Interceptor"],
+      "descrizione": "Un misterioso assassino con un fedele cane, abile nel combattimento e nelle tecniche ninja.",
+      "immagine": "https://dissidiadb.com/static/img/shadow.aae89ae.png"
+    },
+    {
+      "nome": "Cyan Garamonde",
+      "gioco": "Final Fantasy VI",
+      "classe": "Samurai",
+      "arma": "Katana",
+      "abilità": ["Bushido", "Sky", "Murasame"],
+      "descrizione": "Un samurai leale e vendicativo, in cerca di vendetta per l'annientamento del suo regno.",
+      "immagine": "https://dissidiadb.com/static/img/cyan.3a3361d.png"
+    },
+    {
+      "nome": "Sabin Rene Figaro",
+      "gioco": "Final Fantasy VI",
+      "classe": "Monaco",
+      "arma": "Pugno",
+      "abilità": ["Blitz", "Suplex", "Aura Cannon"],
+      "descrizione": "Fratello di Edgar, un monaco esperto di arti marziali con abilità fisiche straordinarie.",
+      "immagine": "https://dissidiadb.com/static/img/sabin.f7eb4a7.png"
+    },
+    {
+      "nome": "Relm Arrowny",
+      "gioco": "Final Fantasy VI",
+      "classe": "Disegnatrice",
+      "arma": "Pennello",
+      "abilità": ["Sketch", "Control", "Rippler"],
+      "descrizione": "Una giovane disegnatrice di talento con il potere di dare vita alle sue creazioni.",
+      "immagine": "https://dissidiadb.com/static/img/relm.866a1ec.png"
+    },
+    {
+      "nome": "Firion",
+      "gioco": "Final Fantasy II",
+      "classe": "Ribelle",
+      "arma": "Spada",
+      "abilità": ["Salve", "Doppio Attacco", "Esplosione"],
+      "descrizione": "Il protagonista di Final Fantasy II, un ribelle che lotta contro l'Impero per liberare il suo regno.",
+      "immagine": "https://dissidiadb.com/static/img/firion.a8574d5.png"
+    },
+    {
+      "nome": "Maria",
+      "gioco": "Final Fantasy II",
+      "classe": "Maga Bianca",
+      "arma": "Bastone",
+      "abilità": ["Cura", "Protezione", "Sacra"],
+      "descrizione": "Una maga bianca con abilità curative e protettive, che sostiene il gruppo nelle battaglie.",
+      "immagine": "https://dissidiadb.com/static/img/maria.2cba229.png"
+    },
+    {
+      "nome": "Guy",
+      "gioco": "Final Fantasy II",
+      "classe": "Bestia",
+      "arma": "Ascia",
+      "abilità": ["Furia", "Berserk", "Ruggito"],
+      "descrizione": "Un guerriero delle terre selvagge con un legame speciale con le bestie, che lo aiutano in combattimento.",
+      "immagine": "https://dissidiadb.com/static/img/guy.aa7e04e.png"
+    },
+    {
+      "nome": "Leon",
+      "gioco": "Final Fantasy II",
+      "classe": "Paladino Oscuro",
+      "arma": "Spada Oscura",
+      "abilità": ["Oscurità", "Sfera Oscura", "Protezione Oscura"],
+      "descrizione": "Un ex amico tradito che si unisce all'Impero per ottenere potere e successivamente cerca redenzione.",
+      "immagine": "https://dissidiadb.com/static/img/leonhart.5661d30.png"
+    },
+    {
+      "nome": "Emperor",
+      "gioco": "Final Fantasy II",
+      "classe": "Mago Nero",
+      "arma": "Bacchetta",
+      "abilità": ["Fulmine Nero", "Meteora", "Inferno"],
+      "descrizione": "L'antagonista principale di Final Fantasy II, un potente mago nero con ambizioni di dominio mondiale.",
+      "immagine": "https://dissidiadb.com/static/img/the_emperor.0a54234.png"
+    },
+    {
+      "nome": "Onion Knight",
+      "gioco": "Final Fantasy III",
+      "classe": "Guerriero",
+      "arma": "Spada",
+      "abilità": ["Attacco Rapido", "Protezione", "Salve"],
+      "descrizione": "Un giovane guerriero che indossa una misteriosa armatura da cipolla, con abilità versatili in combattimento.",
+      "immagine": "https://dissidiadb.com/static/img/onion_knight.153767c.png"
+    },
+    {
+      "nome": "Cloud of Darkness",
+      "gioco": "Final Fantasy III",
+      "classe": "Entità Oscura",
+      "arma": "Nessuna",
+      "abilità": ["Tenebre", "Sfera d'Ombra", "Ultima"],
+      "descrizione": "Un'entità malvagia proveniente dal Vuoto, desiderosa di coprire il mondo con le tenebre.",
+      "immagine": "https://dissidiadb.com/static/img/cloud_of_darkness.0f7f4c8.png"
+    },
+    {
+      "nome": "Warrior of Light",
+      "gioco": "Final Fantasy",
+      "classe": "Paladino",
+      "arma": "Spada e Scudo",
+      "abilità": ["Brave Attack", "Shining Wave", "Shield of Light"],
+      "descrizione": "Il leggendario guerriero che si erge come campione della Luce nel primo Final Fantasy.",
+      "immagine": "https://dissidiadb.com/static/img/warrior_of_light.e1a2d64.png"
+    },
+    {
+      "nome": "Exdeath",
+      "gioco": "Final Fantasy V",
+      "classe": "Mago Nero",
+      "arma": "Bastone",
+      "abilità": ["Black Magic", "Grand Cross", "Almagest"],
+      "descrizione": "Il malvagio stregone che cerca di conquistare il mondo unendo i poteri dei cristalli.",
+      "immagine": "https://dissidiadb.com/static/img/exdeath.b9fa426.png"
+    },
+    {
+      "nome": "Golbez",
+      "gioco": "Final Fantasy IV",
+      "classe": "Mago Oscuro",
+      "arma": "Bastone Magico",
+      "abilità": ["Black Magic", "Shadow Dragon", "Genesis Rock"],
+      "descrizione": "Il fratello di Cecil che inizialmente lavora per il male, ma successivamente si redime.",
+      "immagine": "https://dissidiadb.com/static/img/golbez.ad7f6f6.png"
+    },
+    {
+      "nome": "Ultimecia",
+      "gioco": "Final Fantasy VIII",
+      "classe": "Strega",
+      "arma": "Stregoneria",
+      "abilità": ["Time Magic", "Apocalypse", "Hell's Judgment"],
+      "descrizione": "Una potente strega che cerca di comprimere il tempo e governare su tutti i periodi.",
+      "immagine": "https://dissidiadb.com/static/img/ultimecia.9ea4393.png"
+    },
+    {
+      "nome": "Kuja",
+      "gioco": "Final Fantasy IX",
+      "classe": "Mago Nero",
+      "arma": "Dagger",
+      "abilità": ["Black Magic", "Ultima", "Soul Divider"],
+      "descrizione": "Un potente mago nero con un atteggiamento arrogante e una connessione oscura al mondo.",
+      "immagine": "https://dissidiadb.com/static/img/kuja.9bca505.png"
+    },
+    {
+      "nome": "Gabranth",
+      "gioco": "Final Fantasy XII",
+      "classe": "Giudice Magister",
+      "arma": "Spada e Scudo",
+      "abilità": ["Inquisition", "Fulminating Darkness", "Enrage"],
+      "descrizione": "Un implacabile giudice magister determinato a fare giustizia nel suo mondo.",
+      "immagine": "https://dissidiadb.com/static/img/gabranth.3c6716c.png"
+    },
+    {
+      "nome": "Cid Raines",
+      "gioco": "Final Fantasy XIII",
+      "classe": "L'Cie",
+      "arma": "Spada Pistola",
+      "abilità": ["Army of One", "Deathblow", "Seraphic Ray"],
+      "descrizione": "Un L'Cie che ha tradito i fal'Cie per proteggere il suo popolo e combattere il destino.",
+      "immagine": "https://dissidiadb.com/static/img/raines.279a395.png"
+    },
+    {
+      "nome": "Serah Farron",
+      "gioco": "Final Fantasy XIII-2",
+      "classe": "Commando",
+      "arma": "Spadone",
+      "abilità": ["Ravager", "Commando", "Medic"],
+      "descrizione": "La sorella di Lightning che diventa una cacciatrice del tempo alla ricerca di sua sorella.",
+      "immagine": "https://dissidiadb.com/static/img/serah.68ba696.png"
+    },
+    {
+      "nome": "Noel Kreiss",
+      "gioco": "Final Fantasy XIII-2",
+      "classe": "Commando",
+      "arma": "Spadone",
+      "abilità": ["Ravager", "Sentinel", "Synergist"],
+      "descrizione": "Un abile combattente proveniente dal futuro, impegnato nella lotta contro il caos temporale.",
+      "immagine": "https://dissidiadb.com/static/img/noel.4c51edd.png"
+    },
+    {
+      "nome": "Caius Ballad",
+      "gioco": "Final Fantasy XIII-2",
+      "classe": "Guardiano del Tempo",
+      "arma": "Spada a una mano",
+      "abilità": ["Chaos Drive", "Heart of Chaos", "Knight of Etro"],
+      "descrizione": "Un nemico implacabile che lotta per mantenere l'ordine nel caos temporale.",
+      "immagine": "https://dissidiadb.com/static/img/caius.d893dac.png"
+    },
+    {
+      "nome": "Ardyn Izunia",
+      "gioco": "Final Fantasy XV",
+      "classe": "Imperatore Oscuro",
+      "arma": "Spada",
+      "abilità": ["Darkness", "Hellfire", "Final Eclipse"],
+      "descrizione": "L'antagonista principale di Final Fantasy XV, un uomo misterioso con un oscuro passato.",
+      "immagine": "https://dissidiadb.com/static/img/ardyn.d098f64.png"
+    },
+    {
+      "nome": "Aranea Highwind",
+      "gioco": "Final Fantasy XV",
+      "classe": "Drago Dragoon",
+      "arma": "Lancia",
+      "abilità": ["Highwind", "Ragnarok", "Piercer"],
+      "descrizione": "Una potente guerriera drago e capitano del Third Army Corps nell'impero di Niflheim.",
+      "immagine": "https://dissidiadb.com/static/img/aranea.f49ced8.png"
+    }
+  ]
+}
